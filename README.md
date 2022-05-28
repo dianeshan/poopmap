@@ -1,4 +1,7 @@
 # Poop Map
 
 ## Share your poops with your friends, family, and strangers
-# poopmap
+
+### Introduction
+
+Have you ever wondered where your friends, family, or even strangers take their poops?
